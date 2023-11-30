@@ -1,0 +1,63 @@
+body {
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    background-color: #F0ECE5;
+}
+
+h1 {
+    margin-left: 5px;
+}
+
+
+.section {
+    height: 275px;
+    width: 100%;
+    color: #31304D;
+}
+
+#introducao {
+    color: #31304D;
+}
+
+#objetivos {
+    height: 100px;
+}
+
+#graduacao {
+    height: 150px;
+
+}
+
+#experiencia {
+    height: 300px;
+}
+
+#skills {
+    height: 150px;
+}
+
+
+#certificados {
+    height: 120px;
+
+}
+
+#outros {
+    height: 120px;
+
+}
+
+#rodape {
+    height: 14px;
+    text-align: center;
+}
+
+#foto-perfil {
+    border: 2.5px solid black;
+    margin-left: 5px;
+}
+
+.titulo-secao {
+    margin-left: 5px;
+}
+
+
